@@ -1,0 +1,26 @@
+# Environment variables
+.env
+
+# Python virtual environment
+myvenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Google credentials
+google-service-account.json
+
+# Generated customer records
+answers.txt
+
+# Local backup
+app_backend.py
+
+# Local testing files
+test_env.py
+test_serper.py
+test_google_sheet.py
